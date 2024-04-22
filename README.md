@@ -1,11 +1,6 @@
-# Olá! Algumas informações: 🌱
+# 🌱Olá! Algumas informações:
 
-<a href="https://github.com/Arthurs08/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arthurs08" />
-</a>
-<a href="https://github.com/Arthurs08/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthurs08&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurs08&show_icons=true&theme=radical)
 
 
 ##
